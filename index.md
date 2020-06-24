@@ -12,3 +12,5 @@ Das Leben ist zu kostbar, um es dem Schicksal zu ueberlassen.
 * phantasievoll
 
 > Das Leben ist zu kostbar, um es dem Schicksal zu ueberlassen
+
+<img src="https://en.wikipedia.org/wiki/Captain_Bluebear#/media/File:Blaub%C3%A4r_und_Bl%C3%B6d_nah_by_Stepro.jpg"/>
