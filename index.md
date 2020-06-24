@@ -14,3 +14,6 @@ Das Leben ist zu kostbar, um es dem Schicksal zu ueberlassen.
 > Das Leben ist zu kostbar, um es dem Schicksal zu ueberlassen
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Blaub%C3%A4r_und_Bl%C3%B6d_total_by_Stepro.jpg">
+ 	
+Deutsch: Käpt’n Blaubär und Hein Blöd auf der Gera in Erfurt
+Urheber: 	Steffen Prößdorf
