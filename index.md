@@ -10,3 +10,5 @@ Das Leben ist zu kostbar, um es dem Schicksal zu ueberlassen.
 * verfressen
 * gutmütig
 * phantasievoll
+
+> Das Leben ist zu kostbar, um es dem Schicksal zu ueberlassen
